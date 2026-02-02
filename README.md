@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mayowa (aka Codewarrior)
+# 👋 Hi, I'm Adebayo Mayowa
 
 Backend Engineer • Fintech‑minded • Founder | Laravel • Go • Python
 Building scalable, production‑grade systems for global users
