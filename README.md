@@ -90,11 +90,7 @@ I thrive in environments where:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewarrior4&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewarrior4&layout=compact&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=codewarrior4&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=codewarrior&theme=dark&hide_border=true&short_numbers=true&hide_total_contributions=true)](https://git.io/streak-stats)
 
 
 ---
