@@ -90,7 +90,8 @@ I thrive in environments where:
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=codewarrior4&theme=dark&hide_border=true&short_numbers=true&hide_total_contributions=true&v=1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=codewarrior4&theme=dark)](https://git.io/streak-stats)
+
 
 
 
