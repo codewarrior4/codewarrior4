@@ -86,14 +86,6 @@ I thrive in environments where:
 * Reliability is non‑negotiable
 * Engineers are trusted to think
 
----
-
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=codewarrior4&theme=dark)](https://git.io/streak-stats)
-
-
-
 
 ---
 
