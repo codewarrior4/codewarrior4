@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Adebayo Mayowa
+# Hi, I'm Adebayo Mayowa
 
 Backend Engineer • Fintech‑minded • Founder | Laravel • Go • Python
 Building scalable, production‑grade systems for global users
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a **senior‑leaning backend engineer and product‑driven founder** who builds systems designed to scale across regions, teams, and regulatory boundaries.
 
@@ -19,7 +19,7 @@ I work comfortably across:
 
 ---
 
-## 🧠 What I’m Currently Up To
+## What I’m Currently Up To
 
 * Building **ONELY** — a product‑led link‑in‑bio and identity platform with a strong focus on **organizations, institutions, and monetization**
 * Deepening my knowledge in **distributed systems, cloud architecture, and backend scalability**
@@ -50,7 +50,7 @@ This founder mindset heavily influences how I design software.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Backend & APIs**
 
