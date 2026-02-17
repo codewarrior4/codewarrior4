@@ -21,18 +21,18 @@ I work comfortably across:
 
 ## 🧠 What I’m Currently Up To
 
-* 🔭 Building **ONELY** — a product‑led link‑in‑bio and identity platform with a strong focus on **organizations, institutions, and monetization**
-* 🌱 Deepening my knowledge in **distributed systems, cloud architecture, and backend scalability**
-* 👯 Open to collaborating on **fintech, SaaS platforms, developer tools, and infrastructure‑heavy products**
-* 🤔 Exploring better patterns for **multi‑tenant systems, webhook security, and event‑driven architectures**
-* 💬 Ask me about **Laravel internals, API design, background jobs, Redis, Docker, or system design interviews**
-* 📫 How to reach me: via GitHub or professional channels
-* 😄 Pronouns: He/Him
-* ⚡ Fun fact: I care more about how a system fails than how it works on a good day
+* Building **ONELY** — a product‑led link‑in‑bio and identity platform with a strong focus on **organizations, institutions, and monetization**
+* Deepening my knowledge in **distributed systems, cloud architecture, and backend scalability**
+* Open to collaborating on **fintech, SaaS platforms, developer tools, and infrastructure‑heavy products**
+* Exploring better patterns for **multi‑tenant systems, webhook security, and event‑driven architectures**
+* Ask me about **Laravel internals, API design, background jobs, Redis, Docker, or system design interviews**
+* How to reach me: via GitHub or professional channels
+* Pronouns: He/Him
+* Fun fact: I care more about how a system fails than how it works on a good day
 
 ---
 
-## 🧩 Founder Angle — ONELY
+## ONELY
 
 **ONELY** is a product I’m building with a strong belief that:
 
@@ -74,11 +74,11 @@ This founder mindset heavily influences how I design software.
 
 ---
 
-## 💼 Open to Opportunities
+## Open to Opportunities
 
-* 🌍 **Remote‑first roles (EU / Global)**
-* 💳 **Fintech, payments, remittance, SaaS, and platform teams**
-* 🧠 Backend‑heavy roles with real system design responsibility
+* **Remote‑first roles (EU / Global)**
+* **Fintech, payments, remittance, SaaS, and platform teams**
+* Backend‑heavy roles with real system design responsibility
 
 I thrive in environments where:
 
@@ -89,7 +89,7 @@ I thrive in environments where:
 
 ---
 
-## 📌 Philosophy
+## Philosophy
 
 > “Good systems are boring, predictable, and resilient under pressure.”
 
