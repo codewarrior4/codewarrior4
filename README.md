@@ -13,9 +13,9 @@ My focus is on **fintech‑grade reliability**, clean architecture, and systems 
 
 I work comfortably across:
 
-* **Laravel (11 / 12)** & PHP 8.2+
-* **Go (Golang)** for high‑performance, concurrent APIs
-* **Python** for automation, trading systems, and data pipelines
+* **Laravel 
+* ** & PHP 8.4+
+* **Javascript
 
 ---
 
