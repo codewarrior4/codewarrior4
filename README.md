@@ -13,9 +13,9 @@ My focus is on **fintech‑grade reliability**, clean architecture, and systems 
 
 I work comfortably across:
 
-* **Laravel 
-* ** & PHP 8.4+
-* **Javascript
+* Laravel 
+* PHP 8.4+
+* Javascript
 
 ---
 
