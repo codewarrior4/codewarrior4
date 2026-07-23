@@ -1,13 +1,13 @@
 # Hi, I'm Adebayo Mayowa
 
-Backend Engineer • Fintech‑minded • Founder | Laravel • Go • Python
+Backend Engineer • Fintech‑minded • Founder | Laravel
 Building scalable, production‑grade systems for global users
 
 ---
 
 ## About Me
 
-I’m a **senior‑leaning backend engineer and product‑driven founder** who builds systems designed to scale across regions, teams, and regulatory boundaries.
+I’m a **backend engineer and product‑driven founder** who builds systems designed to scale across regions, teams, and regulatory boundaries.
 
 My focus is on **fintech‑grade reliability**, clean architecture, and systems that can comfortably handle **high traffic, high trust, and high consequence workloads**.
 
